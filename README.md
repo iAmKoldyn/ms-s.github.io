@@ -56,4 +56,4 @@
    Вы можете мониторить очереди и сообщения RabbitMQ через веб-интерфейс, доступный по адресу `http://localhost:15672/#/`.
 
 8. **Почему RabbitMQ**:
-   <a href="https://github.com/iAmKoldyn/ms-s.github.io/wiki" target="_blank">Why RabbitMq</a>
+   <a href="[https://github.com/iAmKoldyn/ms-s.github.io/wiki](https://github.com/iAmKoldyn/ms-s.github.io/wiki/Why-RabbitMq)https://github.com/iAmKoldyn/ms-s.github.io/wiki/Why-RabbitMq" target="_blank">Why RabbitMq</a>
